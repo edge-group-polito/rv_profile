@@ -1,2 +1,2 @@
-pylibfst==0.2.0
+pylibfst==0.2.1
 wal-lang==0.8.2
