@@ -429,1836 +429,1836 @@
 <text id="matched" x="1090.00" y="197"> </text>
 <g id="frames">
 <g>
-<title>__subdf3 (128 samples, 0.01%)</title><rect x="133.6" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="136.57" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="168.3" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="171.29" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="442.4" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="445.38" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="176.8" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="179.79" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (216 samples, 0.02%)</title><rect x="439.4" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="442.36" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>cos (5,281 samples, 0.53%)</title><rect x="164.0" y="101" width="6.3" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="167.04" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__kernel_sin (3,348 samples, 0.34%)</title><rect x="130.7" y="85" width="4.0" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="133.70" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>exit (314 samples, 0.03%)</title><rect x="1189.6" y="149" width="0.4" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="1192.63" y="159.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="188.2" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="191.17" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (114 samples, 0.01%)</title><rect x="189.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="192.79" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__kernel_cos (3,418 samples, 0.34%)</title><rect x="147.5" y="85" width="4.0" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="150.49" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="164.8" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="167.79" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="453.6" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="456.57" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="189.0" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="191.98" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="445.7" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="448.71" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__sflush_r (113,334 samples, 11.36%)</title><rect x="197.7" y="53" width="134.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="200.71" y="63.5" style="fill:white">__sflush_r</text>
-</g>
-<g>
-<title>__kernel_cos (3,625 samples, 0.36%)</title><rect x="179.5" y="85" width="4.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="182.49" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="123.8" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="126.76" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__divdf3 (376 samples, 0.04%)</title><rect x="440.0" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="442.98" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>iterative_FFT_radix2 (2,521 samples, 0.25%)</title><rect x="191.8" y="117" width="2.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="194.76" y="127.5" style="fill:white" />
-</g>
-<g>
-<title>__sflush_r (82,180 samples, 8.24%)</title><rect x="332.5" y="85" width="97.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="335.48" y="95.5" style="fill:white">__sflush_r</text>
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="155.1" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="158.06" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="117.8" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="120.82" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="118.2" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="121.23" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="446.9" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="449.92" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (126 samples, 0.01%)</title><rect x="149.3" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="152.26" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="437.7" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="440.72" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="138.1" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="141.11" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__floatsidf (151 samples, 0.02%)</title><rect x="430.0" y="101" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="432.98" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (653 samples, 0.07%)</title><rect x="157.8" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="160.83" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="446.0" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="448.98" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__divdf3 (377 samples, 0.04%)</title><rect x="129.3" y="101" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="132.34" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="456.6" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="459.60" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (439 samples, 0.04%)</title><rect x="452.2" y="69" width="0.6" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="455.24" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="451.7" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="454.69" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="437.1" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="440.05" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (660 samples, 0.07%)</title><rect x="432.1" y="85" width="0.7" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="435.06" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (637 samples, 0.06%)</title><rect x="183.0" y="69" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="186.03" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (665 samples, 0.07%)</title><rect x="130.9" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="133.91" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="181.3" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="184.29" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__kernel_sin (2,618 samples, 0.26%)</title><rect x="444.6" y="101" width="3.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="447.62" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>_malloc_r (186 samples, 0.02%)</title><rect x="12.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="15.25" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (116 samples, 0.01%)</title><rect x="453.2" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="456.17" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="174.7" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="177.68" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="456.2" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="459.20" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="113.9" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="116.86" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="137.3" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="140.30" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="174.0" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="177.02" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (647 samples, 0.06%)</title><rect x="443.8" y="85" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="446.83" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__divdf3 (376 samples, 0.04%)</title><rect x="448.6" y="101" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="451.63" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="167.1" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="170.08" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (654 samples, 0.07%)</title><rect x="112.7" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="115.69" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="177.8" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="180.84" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>sin (4,946 samples, 0.50%)</title><rect x="170.6" y="101" width="5.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="173.58" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__divdf3 (99 samples, 0.01%)</title><rect x="430.3" y="101" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="433.29" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="123.5" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="126.50" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (252 samples, 0.03%)</title><rect x="449.2" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="452.25" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>get_bit_reversed_seq (632 samples, 0.06%)</title><rect x="459.5" y="117" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="462.53" y="127.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="457.3" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="460.27" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__divdf3 (100 samples, 0.01%)</title><rect x="110.7" y="101" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="113.73" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="134.7" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="137.66" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (134 samples, 0.01%)</title><rect x="142.0" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="145.01" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="170.3" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="173.29" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (665 samples, 0.07%)</title><rect x="150.2" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="153.23" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="187.9" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="190.91" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="433.4" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="436.38" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="111.6" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="114.65" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__sfputc_r (88 samples, 0.01%)</title><rect x="197.1" y="53" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="200.10" y="63.5" style="fill:white" />
-</g>
-<g>
-<title>__sfputs_r (643 samples, 0.06%)</title><rect x="463.3" y="85" width="0.8" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="466.33" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (145 samples, 0.01%)</title><rect x="130.4" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="133.36" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="183.8" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="186.78" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="457.0" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="460.01" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="122.3" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="125.29" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="132.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="135.11" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="140.4" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="143.42" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (403 samples, 0.04%)</title><rect x="179.0" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="182.02" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="114.0" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="117.00" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="456.9" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="459.86" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>std (108 samples, 0.01%)</title><rect x="11.9" y="101" width="0.1" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="14.89" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (142 samples, 0.01%)</title><rect x="185.1" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="188.06" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (116 samples, 0.01%)</title><rect x="148.4" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="151.45" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="127.8" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="130.78" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="145.7" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="148.66" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (105 samples, 0.01%)</title><rect x="111.4" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="114.44" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>_printf_i (723 samples, 0.07%)</title><rect x="196.4" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="199.35" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (758 samples, 0.08%)</title><rect x="146.6" y="85" width="0.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="149.59" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="129.1" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="132.08" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>_printf_common (135 samples, 0.01%)</title><rect x="196.8" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="199.84" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>std (214 samples, 0.02%)</title><rect x="11.6" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="14.63" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="123.1" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="126.10" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="181.4" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="184.43" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (659 samples, 0.07%)</title><rect x="147.7" y="69" width="0.7" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="150.67" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__kernel_cos (3,509 samples, 0.35%)</title><rect x="440.4" y="101" width="4.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="443.44" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="134.1" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="137.12" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="131.7" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="134.70" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="113.6" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="116.60" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="122.2" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="125.15" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="114.8" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="117.81" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="160.4" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="163.39" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="434.2" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="437.19" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="187.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="190.76" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (155 samples, 0.02%)</title><rect x="145.1" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="148.06" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="116.6" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="119.56" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__kernel_sin (3,459 samples, 0.35%)</title><rect x="142.2" y="85" width="4.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="145.17" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (216 samples, 0.02%)</title><rect x="447.7" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="450.71" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="160.0" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="162.99" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (116 samples, 0.01%)</title><rect x="175.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="178.76" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (1,562 samples, 0.16%)</title><rect x="170.6" y="85" width="1.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="173.63" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (647 samples, 0.06%)</title><rect x="124.5" y="85" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="127.54" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (114 samples, 0.01%)</title><rect x="430.2" y="101" width="0.1" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="433.16" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (670 samples, 0.07%)</title><rect x="457.4" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="460.41" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (224 samples, 0.02%)</title><rect x="453.3" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="456.31" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__divdf3 (376 samples, 0.04%)</title><rect x="431.4" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="434.38" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (260 samples, 0.03%)</title><rect x="157.9" y="69" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="160.95" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (224 samples, 0.02%)</title><rect x="447.3" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="450.32" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (108 samples, 0.01%)</title><rect x="447.6" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="450.59" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (145 samples, 0.01%)</title><rect x="135.6" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="138.60" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="433.6" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="436.64" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="140.1" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="143.06" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__sfputc_r (88 samples, 0.01%)</title><rect x="465.0" y="53" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="468.02" y="63.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (550 samples, 0.06%)</title><rect x="115.2" y="85" width="0.7" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="118.21" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="144.1" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="147.14" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (106 samples, 0.01%)</title><rect x="430.9" y="101" width="0.1" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="433.91" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="441.4" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="444.44" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__sfputs_r (113,876 samples, 11.41%)</title><rect x="465.1" y="85" width="134.7" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="468.13" y="95.5" style="fill:white">__sfputs_r</text>
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="136.8" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="139.76" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>global_stdio_init.part.0 (239 samples, 0.02%)</title><rect x="11.6" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="14.60" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (689 samples, 0.07%)</title><rect x="169.5" y="69" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="172.47" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>sbrk_aligned (111 samples, 0.01%)</title><rect x="12.3" y="53" width="0.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="15.34" y="63.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="119.6" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="122.58" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (145 samples, 0.01%)</title><rect x="135.4" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="138.43" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="452.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="455.10" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="180.9" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="183.88" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__sfputc_r (167 samples, 0.02%)</title><rect x="465.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="468.30" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="128.2" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="131.18" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="163.2" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="166.23" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>_write (113,345 samples, 11.36%)</title><rect x="465.8" y="37" width="134.0" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="468.76" y="47.5" style="fill:white">_write</text>
-</g>
-<g>
-<title>__muldf3 (435 samples, 0.04%)</title><rect x="144.5" y="69" width="0.6" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="147.55" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="438.1" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="441.13" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (440 samples, 0.04%)</title><rect x="133.1" y="69" width="0.5" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="136.05" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (216 samples, 0.02%)</title><rect x="439.1" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="442.07" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__smakebuf_r (353 samples, 0.04%)</title><rect x="12.1" y="85" width="0.4" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="15.08" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="178.8" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="181.76" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="123.0" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="125.96" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (440 samples, 0.04%)</title><rect x="188.3" y="69" width="0.5" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="191.31" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>_puts_r (83,604 samples, 8.38%)</title><rect x="11.0" y="117" width="98.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="13.99" y="127.5" style="fill:white">_puts_r</text>
-</g>
-<g>
-<title>__adddf3 (112 samples, 0.01%)</title><rect x="128.6" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="131.59" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="182.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="185.09" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="442.0" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="444.98" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="446.8" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="449.78" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__swbuf_r (82,291 samples, 8.25%)</title><rect x="332.4" y="101" width="97.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="335.35" y="111.5" style="fill:black">__swbuf_r</text>
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="127.4" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="130.38" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="187.4" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="190.36" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__kernel_cos (3,625 samples, 0.36%)</title><rect x="454.7" y="85" width="4.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="457.66" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="171.3" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="174.32" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (134 samples, 0.01%)</title><rect x="147.3" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="150.33" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (591 samples, 0.06%)</title><rect x="435.2" y="85" width="0.7" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="438.24" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (145 samples, 0.01%)</title><rect x="449.5" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="452.55" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="154.9" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="157.92" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (116 samples, 0.01%)</title><rect x="134.0" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="136.99" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="122.7" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="125.70" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>main (498,687 samples, 49.98%)</title><rect x="10.0" y="133" width="589.8" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="13.00" y="143.5" style="fill:white">main</text>
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="455.7" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="458.66" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__sfputc_r (374 samples, 0.04%)</title><rect x="463.6" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="466.64" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="165.2" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="168.21" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="114.4" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="117.40" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="436.9" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="439.91" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (123 samples, 0.01%)</title><rect x="146.1" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="149.12" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="132.9" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="135.91" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (670 samples, 0.07%)</title><rect x="161.3" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="164.34" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (110 samples, 0.01%)</title><rect x="184.6" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="187.57" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="442.6" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="445.64" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (146 samples, 0.01%)</title><rect x="158.3" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="161.25" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (126 samples, 0.01%)</title><rect x="144.4" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="147.40" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (260 samples, 0.03%)</title><rect x="152.9" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="155.87" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (660 samples, 0.07%)</title><rect x="454.9" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="457.88" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="155.7" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="158.73" y="79.5" style="fill:black" />
+<title>__muldf3 (224 samples, 0.02%)</title><rect x="453.3" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="456.31" y="79.5" style="fill:black" />
 </g>
 <g>
 <title>__subdf3 (128 samples, 0.01%)</title><rect x="148.8" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
 <text x="151.85" y="79.5" style="fill:white" />
 </g>
 <g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="434.0" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="437.05" y="95.5" style="fill:white" />
+<title>__kernel_sin (3,348 samples, 0.34%)</title><rect x="130.7" y="85" width="4.0" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="133.70" y="95.5" style="fill:white" />
 </g>
 <g>
-<title>iterative_FFT_radix4 (1,609 samples, 0.16%)</title><rect x="460.8" y="117" width="1.9" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="463.76" y="127.5" style="fill:white" />
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="160.5" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="163.53" y="79.5" style="fill:black" />
 </g>
 <g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="166.9" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="169.95" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__sflush_r (113,455 samples, 11.37%)</title><rect x="465.6" y="53" width="134.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="468.63" y="63.5" style="fill:white">__sflush_r</text>
-</g>
-<g>
-<title>__subdf3 (407 samples, 0.04%)</title><rect x="165.5" y="69" width="0.4" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="168.47" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (665 samples, 0.07%)</title><rect x="444.8" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="447.78" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="122.6" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="125.55" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (436 samples, 0.04%)</title><rect x="151.0" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="154.01" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="151.5" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="154.53" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="448.4" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="451.37" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__sfputc_r (167 samples, 0.02%)</title><rect x="197.4" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="200.38" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="438.5" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="441.53" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (630 samples, 0.06%)</title><rect x="162.1" y="69" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="165.13" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="138.0" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="140.97" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (145 samples, 0.01%)</title><rect x="454.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="457.32" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="114.3" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="117.26" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (545 samples, 0.05%)</title><rect x="443.2" y="85" width="0.6" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="446.18" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="133.7" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="136.73" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>sin (4,223 samples, 0.42%)</title><rect x="146.5" y="101" width="5.0" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="149.53" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="118.4" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="121.37" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="184.3" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="187.31" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (440 samples, 0.04%)</title><rect x="155.9" y="69" width="0.5" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="158.87" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="167.7" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="170.75" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>_fwalk_sglue (202 samples, 0.02%)</title><rect x="1189.8" y="133" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="1192.76" y="143.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (252 samples, 0.03%)</title><rect x="135.1" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="138.13" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (166 samples, 0.02%)</title><rect x="145.9" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="148.92" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__swsetup_r (412 samples, 0.04%)</title><rect x="12.0" y="101" width="0.5" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="15.01" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="167.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="170.34" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__sfputs_r (113,755 samples, 11.40%)</title><rect x="197.2" y="85" width="134.6" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="200.21" y="95.5" style="fill:white">__sfputs_r</text>
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="120.3" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="123.34" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>rv_timer_reset.constprop.0.isra.0 (167 samples, 0.02%)</title><rect x="191.5" y="101" width="0.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="194.52" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (219 samples, 0.02%)</title><rect x="160.9" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="163.94" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (371 samples, 0.04%)</title><rect x="146.7" y="69" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="149.72" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>printf (115,921 samples, 11.62%)</title><rect x="462.7" y="117" width="137.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="465.71" y="127.5" style="fill:black">printf</text>
-</g>
-<g>
-<title>__subdf3 (142 samples, 0.01%)</title><rect x="165.0" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="168.04" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>get_bit_reversed_seq (1,048 samples, 0.11%)</title><rect x="190.2" y="117" width="1.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="193.21" y="127.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="173.5" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="176.47" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="456.1" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="459.06" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="154.5" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="157.51" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (660 samples, 0.07%)</title><rect x="179.7" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="182.70" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="155.5" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="158.46" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="167.5" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="170.49" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (146 samples, 0.01%)</title><rect x="153.2" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="156.17" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__swbuf_r (113,566 samples, 11.38%)</title><rect x="465.5" y="69" width="134.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="468.49" y="79.5" style="fill:black">__swbuf_r</text>
-</g>
-<g>
-<title>timer_cycles_init (224 samples, 0.02%)</title><rect x="191.4" y="117" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="194.45" y="127.5" style="fill:black" />
-</g>
-<g>
-<title>__kernel_sin (2,628 samples, 0.26%)</title><rect x="436.0" y="101" width="3.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="438.96" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>_write (82,070 samples, 8.23%)</title><rect x="332.6" y="69" width="97.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="335.61" y="79.5" style="fill:white">_write</text>
-</g>
-<g>
-<title>__muldf3 (660 samples, 0.07%)</title><rect x="117.0" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="120.04" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="180.6" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="183.62" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="168.5" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="171.55" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="128.3" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="131.32" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="438.3" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="441.27" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="131.8" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="134.84" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="174.4" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="177.42" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (1,555 samples, 0.16%)</title><rect x="184.1" y="85" width="1.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="187.12" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="455.8" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="458.80" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (114 samples, 0.01%)</title><rect x="157.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="160.35" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__kernel_sin (3,351 samples, 0.34%)</title><rect x="153.5" y="85" width="4.0" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="156.52" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (660 samples, 0.07%)</title><rect x="136.0" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="138.98" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (139 samples, 0.01%)</title><rect x="147.2" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="150.16" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="178.3" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="181.34" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>_printf_i (723 samples, 0.07%)</title><rect x="464.3" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="467.27" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>cos (4,037 samples, 0.40%)</title><rect x="449.1" y="101" width="4.7" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="452.07" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="128.7" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="131.72" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>cos (4,264 samples, 0.43%)</title><rect x="141.2" y="101" width="5.1" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="144.22" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="154.7" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="157.65" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="451.0" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="454.03" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (219 samples, 0.02%)</title><rect x="149.4" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="152.41" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="441.6" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="444.58" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="155.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="158.32" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="146.3" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="149.26" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="437.3" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="440.32" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>all (997,690 samples, 100%)</title><rect x="10.0" y="165" width="1180.0" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="13.00" y="175.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="160.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="163.80" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (664 samples, 0.07%)</title><rect x="142.4" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="145.38" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="446.1" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="449.12" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (759 samples, 0.08%)</title><rect x="141.3" y="85" width="0.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="144.27" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (216 samples, 0.02%)</title><rect x="459.2" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="462.24" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="438.7" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="441.67" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="175.9" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="178.89" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__divdf3 (377 samples, 0.04%)</title><rect x="152.1" y="101" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="155.14" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>cos (4,039 samples, 0.40%)</title><rect x="129.9" y="101" width="4.8" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="132.89" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (665 samples, 0.07%)</title><rect x="436.1" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="439.13" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="111.0" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="114.04" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__kernel_sin (3,339 samples, 0.33%)</title><rect x="172.5" y="85" width="3.9" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="175.48" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="113.5" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="116.46" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>_vfprintf_r (115,772 samples, 11.60%)</title><rect x="194.8" y="101" width="137.0" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="197.82" y="111.5" style="fill:white">_vfprintf_r</text>
-</g>
-<g>
-<title>__adddf3 (145 samples, 0.01%)</title><rect x="449.7" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="452.72" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="446.4" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="449.38" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (128 samples, 0.01%)</title><rect x="143.2" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="146.17" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="127.0" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="129.98" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (142 samples, 0.01%)</title><rect x="178.6" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="181.59" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (645 samples, 0.06%)</title><rect x="129.9" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="132.94" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__sfputs_r (643 samples, 0.06%)</title><rect x="195.4" y="85" width="0.8" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="198.41" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (145 samples, 0.01%)</title><rect x="130.5" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="133.53" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="187.1" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="190.10" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="162.9" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="165.88" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (252 samples, 0.03%)</title><rect x="454.0" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="457.02" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="442.2" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="445.24" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (665 samples, 0.07%)</title><rect x="450.1" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="453.10" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="145.2" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="148.24" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>_puts_r (82,795 samples, 8.30%)</title><rect x="331.8" y="117" width="97.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="334.76" y="127.5" style="fill:white">_puts_r</text>
-</g>
-<g>
-<title>__subdf3 (114 samples, 0.01%)</title><rect x="134.5" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="137.53" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="450.9" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="453.88" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="137.6" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="140.56" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__swbuf_r (82,324 samples, 8.25%)</title><rect x="12.5" y="101" width="97.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="15.50" y="111.5" style="fill:black">__swbuf_r</text>
-</g>
-<g>
-<title>__muldf3 (665 samples, 0.07%)</title><rect x="168.7" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="171.69" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="127.5" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="130.52" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (654 samples, 0.07%)</title><rect x="152.7" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="155.75" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="126.7" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="129.71" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (1,563 samples, 0.16%)</title><rect x="164.1" y="85" width="1.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="167.10" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="159.6" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="162.59" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (670 samples, 0.07%)</title><rect x="182.2" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="185.23" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (128 samples, 0.01%)</title><rect x="149.7" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="152.67" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="181.0" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="184.03" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (145 samples, 0.01%)</title><rect x="454.5" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="457.49" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__kernel_sin (2,623 samples, 0.26%)</title><rect x="116.9" y="101" width="3.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="119.88" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="114.7" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="117.67" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="176.2" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="179.16" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (128 samples, 0.01%)</title><rect x="144.0" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="146.99" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (637 samples, 0.06%)</title><rect x="139.3" y="69" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="142.30" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>_vfprintf_r (115,893 samples, 11.62%)</title><rect x="462.7" y="101" width="137.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="465.74" y="111.5" style="fill:white">_vfprintf_r</text>
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="173.6" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="176.62" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (664 samples, 0.07%)</title><rect x="153.7" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="156.73" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="167.9" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="170.89" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (654 samples, 0.07%)</title><rect x="121.4" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="124.38" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="189.4" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="192.38" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (126 samples, 0.01%)</title><rect x="143.6" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="146.58" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (252 samples, 0.03%)</title><rect x="130.1" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="133.06" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="187.0" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="189.96" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="187.5" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="190.50" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="149.8" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="152.82" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="151.9" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="154.89" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__divdf3 (377 samples, 0.04%)</title><rect x="163.5" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="166.49" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="156.5" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="159.54" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="433.2" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="436.24" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__kernel_cos (3,503 samples, 0.35%)</title><rect x="121.2" y="101" width="4.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="124.16" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__kernel_cos (3,457 samples, 0.35%)</title><rect x="112.5" y="101" width="4.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="115.48" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="118.8" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="121.77" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="160.1" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="163.13" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (142 samples, 0.01%)</title><rect x="171.6" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="174.58" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="119.0" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="122.04" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (645 samples, 0.06%)</title><rect x="449.1" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="452.13" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="184.8" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="187.81" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>_printf_common (135 samples, 0.01%)</title><rect x="464.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="467.76" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="443.0" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="446.04" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="132.2" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="135.25" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="433.0" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="435.98" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__kernel_sin (2,618 samples, 0.26%)</title><rect x="125.6" y="101" width="3.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="128.62" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__divdf3 (377 samples, 0.04%)</title><rect x="120.6" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="123.59" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (110 samples, 0.01%)</title><rect x="176.3" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="179.30" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="149.0" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="152.00" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="143.3" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="146.32" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>cos (5,228 samples, 0.52%)</title><rect x="177.6" y="101" width="6.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="180.60" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="445.6" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="448.57" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__sflush_r (82,213 samples, 8.24%)</title><rect x="12.6" y="85" width="97.3" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="15.63" y="95.5" style="fill:white">__sflush_r</text>
-</g>
-<g>
-<title>__adddf3 (112 samples, 0.01%)</title><rect x="119.8" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="122.85" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (644 samples, 0.06%)</title><rect x="453.9" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="456.90" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="157.2" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="160.21" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (644 samples, 0.06%)</title><rect x="135.0" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="138.01" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__ieee754_rem_pio2 (1,556 samples, 0.16%)</title><rect x="177.7" y="85" width="1.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="180.65" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="176.4" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="179.43" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="156.9" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="159.94" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="437.9" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="440.86" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="123.4" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="126.36" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="442.8" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="445.78" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="181.7" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="184.69" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (219 samples, 0.02%)</title><rect x="148.6" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="151.59" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (216 samples, 0.02%)</title><rect x="448.0" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="451.01" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>compute_twiddle_factors_radix2 (67,928 samples, 6.81%)</title><rect x="109.9" y="117" width="80.3" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="112.87" y="127.5" style="fill:white">compute_t..</text>
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="126.6" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="129.57" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="431.1" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="434.12" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (116 samples, 0.01%)</title><rect x="189.2" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="192.24" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (128 samples, 0.01%)</title><rect x="452.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="455.76" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>sin (4,316 samples, 0.43%)</title><rect x="157.8" y="101" width="5.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="160.77" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (139 samples, 0.01%)</title><rect x="141.8" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="144.85" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>compute_twiddle_factors_radix4 (25,242 samples, 2.53%)</title><rect x="429.7" y="117" width="29.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="432.68" y="127.5" style="fill:black">co..</text>
-</g>
-<g>
-<title>__muldf3 (550 samples, 0.06%)</title><rect x="434.6" y="85" width="0.6" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="437.59" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="189.6" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="192.65" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="451.3" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="454.29" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="446.5" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="449.52" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="160.5" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="163.53" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (660 samples, 0.07%)</title><rect x="440.7" y="85" width="0.7" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="443.66" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="441.8" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="444.84" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (595 samples, 0.06%)</title><rect x="115.9" y="85" width="0.7" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="118.86" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__sfputs_r (176 samples, 0.02%)</title><rect x="464.9" y="69" width="0.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="467.92" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="119.4" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="122.44" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (128 samples, 0.01%)</title><rect x="188.8" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="191.83" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__divdf3 (377 samples, 0.04%)</title><rect x="140.7" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="143.67" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="433.8" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="436.78" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="115.1" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="118.07" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (216 samples, 0.02%)</title><rect x="430.6" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="433.62" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>rv_timer_reset.constprop.0.isra.0 (309 samples, 0.03%)</title><rect x="460.3" y="101" width="0.4" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="463.35" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="132.6" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="135.65" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (113 samples, 0.01%)</title><rect x="171.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="174.08" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>sin (4,316 samples, 0.43%)</title><rect x="135.0" y="101" width="5.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="137.95" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="447.2" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="450.18" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (545 samples, 0.05%)</title><rect x="123.9" y="85" width="0.6" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="126.90" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>memchr (158 samples, 0.02%)</title><rect x="464.1" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="467.09" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__swbuf_r (113,445 samples, 11.37%)</title><rect x="197.6" y="69" width="134.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="200.58" y="79.5" style="fill:black">__swbuf_r</text>
-</g>
-<g>
-<title>__muldf3 (219 samples, 0.02%)</title><rect x="143.7" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="146.73" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="451.4" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="454.43" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="432.8" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="435.84" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="437.5" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="440.46" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (659 samples, 0.07%)</title><rect x="158.8" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="161.81" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>sin (4,948 samples, 0.50%)</title><rect x="184.1" y="101" width="5.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="187.07" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="439.7" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="442.72" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (114 samples, 0.01%)</title><rect x="110.6" y="101" width="0.1" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="113.59" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (145 samples, 0.01%)</title><rect x="158.4" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="161.43" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="168.1" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="171.15" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="157.5" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="160.48" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="174.3" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="177.28" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (371 samples, 0.04%)</title><rect x="141.4" y="69" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="144.41" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="120.0" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="122.98" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__kernel_sin (3,348 samples, 0.34%)</title><rect x="186.0" y="85" width="3.9" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="188.96" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__sfputs_r (176 samples, 0.02%)</title><rect x="197.0" y="69" width="0.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="200.00" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>printf (115,801 samples, 11.61%)</title><rect x="194.8" y="117" width="137.0" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="197.79" y="127.5" style="fill:black">printf</text>
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="118.0" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="120.97" y="95.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="137.2" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="140.16" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="456.5" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="459.46" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__subdf3 (125 samples, 0.01%)</title><rect x="156.4" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="159.39" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (128 samples, 0.01%)</title><rect x="175.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="178.34" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="452.9" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="455.91" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>_write (82,103 samples, 8.23%)</title><rect x="12.8" y="69" width="97.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="15.76" y="79.5" style="fill:white">_write</text>
-</g>
-<g>
-<title>__muldf3 (665 samples, 0.07%)</title><rect x="172.7" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="175.69" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (128 samples, 0.01%)</title><rect x="145.5" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="148.50" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="434.4" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="437.45" y="95.5" style="fill:black" />
-</g>
-<g>
-<title>sin (4,316 samples, 0.43%)</title><rect x="453.8" y="101" width="5.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="456.85" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__sfputc_r (374 samples, 0.04%)</title><rect x="195.7" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="198.72" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="180.5" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="183.48" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (670 samples, 0.07%)</title><rect x="138.5" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="141.51" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__divdf3 (377 samples, 0.04%)</title><rect x="111.9" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="114.90" y="111.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (216 samples, 0.02%)</title><rect x="459.0" y="101" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="461.95" y="111.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="132.5" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="135.51" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (637 samples, 0.06%)</title><rect x="458.2" y="69" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="461.20" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__adddf3 (113 samples, 0.01%)</title><rect x="164.5" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="167.55" y="79.5" style="fill:black" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="175.5" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="178.49" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__subdf3 (407 samples, 0.04%)</title><rect x="172.0" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="175.00" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="137.7" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="140.70" y="79.5" style="fill:white" />
-</g>
-<g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="127.9" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="130.92" y="95.5" style="fill:white" />
+<title>__muldf3 (660 samples, 0.07%)</title><rect x="179.7" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="182.70" y="79.5" style="fill:black" />
 </g>
 <g>
 <title>memchr (158 samples, 0.02%)</title><rect x="196.2" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
 <text x="199.17" y="95.5" style="fill:white" />
 </g>
 <g>
-<title>__kernel_cos (3,625 samples, 0.36%)</title><rect x="135.8" y="85" width="4.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="138.77" y="95.5" style="fill:black" />
+<title>__adddf3 (108 samples, 0.01%)</title><rect x="447.6" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="450.59" y="95.5" style="fill:black" />
 </g>
 <g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="164.3" y="69" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="167.29" y="79.5" style="fill:white" />
+<title>timer_cycles_init (366 samples, 0.04%)</title><rect x="460.3" y="117" width="0.4" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="463.28" y="127.5" style="fill:white" />
 </g>
 <g>
-<title>__muldf3 (660 samples, 0.07%)</title><rect x="125.8" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="128.79" y="95.5" style="fill:white" />
+<title>all (997,690 samples, 100%)</title><rect x="10.0" y="165" width="1180.0" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="13.00" y="175.5" style="fill:white" />
 </g>
 <g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="161.2" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="164.20" y="79.5" style="fill:black" />
+<title>__kernel_sin (2,628 samples, 0.26%)</title><rect x="436.0" y="101" width="3.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="438.96" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="145.7" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="148.66" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (665 samples, 0.07%)</title><rect x="130.9" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="133.91" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (439 samples, 0.04%)</title><rect x="452.2" y="69" width="0.6" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="455.24" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (116 samples, 0.01%)</title><rect x="175.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="178.76" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="451.8" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="454.83" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (128 samples, 0.01%)</title><rect x="175.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="178.34" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="432.8" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="435.84" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="122.6" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="125.55" y="95.5" style="fill:white" />
 </g>
 <g>
 <title>__kernel_sin (3,346 samples, 0.34%)</title><rect x="449.9" y="85" width="3.9" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
 <text x="452.89" y="95.5" style="fill:white" />
 </g>
 <g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="134.4" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="137.39" y="79.5" style="fill:black" />
+<title>__kernel_sin (2,623 samples, 0.26%)</title><rect x="116.9" y="101" width="3.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="119.88" y="111.5" style="fill:white" />
 </g>
 <g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="119.2" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="122.18" y="95.5" style="fill:white" />
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="434.2" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="437.19" y="95.5" style="fill:black" />
 </g>
 <g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="136.9" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="139.90" y="79.5" style="fill:white" />
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="181.7" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="184.69" y="79.5" style="fill:white" />
 </g>
 <g>
-<title>__muldf3 (660 samples, 0.07%)</title><rect x="166.2" y="69" width="0.7" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="169.16" y="79.5" style="fill:white" />
+<title>__subdf3 (145 samples, 0.01%)</title><rect x="449.5" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="452.55" y="79.5" style="fill:white" />
 </g>
 <g>
-<title>_write (113,224 samples, 11.35%)</title><rect x="197.8" y="37" width="134.0" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="200.84" y="47.5" style="fill:white">_write</text>
+<title>__swbuf_r (82,291 samples, 8.25%)</title><rect x="332.4" y="101" width="97.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="335.35" y="111.5" style="fill:white">__swbuf_r</text>
 </g>
 <g>
-<title>__kernel_cos (3,671 samples, 0.37%)</title><rect x="165.9" y="85" width="4.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="168.95" y="95.5" style="fill:black" />
+<title>__subdf3 (146 samples, 0.01%)</title><rect x="158.3" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="161.25" y="79.5" style="fill:white" />
 </g>
 <g>
-<title>timer_cycles_init (366 samples, 0.04%)</title><rect x="460.3" y="117" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="463.28" y="127.5" style="fill:black" />
+<title>rv_timer_reset.constprop.0.isra.0 (167 samples, 0.02%)</title><rect x="191.5" y="101" width="0.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="194.52" y="111.5" style="fill:white" />
 </g>
 <g>
-<title>__kernel_cos (3,616 samples, 0.36%)</title><rect x="158.6" y="85" width="4.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="161.60" y="95.5" style="fill:black" />
+<title>__subdf3 (407 samples, 0.04%)</title><rect x="165.5" y="69" width="0.4" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="168.47" y="79.5" style="fill:white" />
 </g>
 <g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="173.9" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="176.88" y="79.5" style="fill:black" />
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="120.0" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="122.98" y="111.5" style="fill:black" />
 </g>
 <g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="125.3" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="128.31" y="111.5" style="fill:white" />
+<title>__muldf3 (216 samples, 0.02%)</title><rect x="448.0" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="451.01" y="111.5" style="fill:black" />
 </g>
 <g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="189.9" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="192.92" y="111.5" style="fill:white" />
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="117.8" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="120.82" y="95.5" style="fill:white" />
 </g>
 <g>
-<title>__adddf3 (118 samples, 0.01%)</title><rect x="138.4" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="141.37" y="79.5" style="fill:black" />
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="434.0" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="437.05" y="95.5" style="fill:white" />
 </g>
 <g>
-<title>__adddf3 (145 samples, 0.01%)</title><rect x="153.3" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="156.35" y="79.5" style="fill:black" />
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="119.4" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="122.44" y="95.5" style="fill:white" />
 </g>
 <g>
-<title>_start (997,376 samples, 99.97%)</title><rect x="10.0" y="149" width="1179.6" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="13.00" y="159.5" style="fill:black">_start</text>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="174.4" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="177.42" y="79.5" style="fill:black" />
 </g>
 <g>
-<title>__adddf3 (112 samples, 0.01%)</title><rect x="438.9" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="441.94" y="95.5" style="fill:black" />
+<title>__sflush_r (113,455 samples, 11.37%)</title><rect x="465.6" y="53" width="134.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="468.63" y="63.5" style="fill:white">__sflush_r</text>
 </g>
 <g>
-<title>__muldf3 (665 samples, 0.07%)</title><rect x="186.2" y="69" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="189.17" y="79.5" style="fill:white" />
+<title>__divdf3 (376 samples, 0.04%)</title><rect x="431.4" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="434.38" y="111.5" style="fill:black" />
 </g>
 <g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="159.7" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="162.73" y="79.5" style="fill:white" />
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="434.4" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="437.45" y="95.5" style="fill:black" />
 </g>
 <g>
-<title>__muldf3 (440 samples, 0.04%)</title><rect x="174.8" y="69" width="0.5" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="177.82" y="79.5" style="fill:white" />
+<title>__muldf3 (670 samples, 0.07%)</title><rect x="138.5" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="141.51" y="79.5" style="fill:black" />
 </g>
 <g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="170.8" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="173.82" y="79.5" style="fill:white" />
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="160.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="163.80" y="79.5" style="fill:white" />
 </g>
 <g>
-<title>__subdf3 (403 samples, 0.04%)</title><rect x="185.5" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="188.48" y="79.5" style="fill:white" />
+<title>__adddf3 (252 samples, 0.03%)</title><rect x="135.1" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="138.13" y="79.5" style="fill:black" />
 </g>
 <g>
-<title>__call_exitprocs (106 samples, 0.01%)</title><rect x="1189.6" y="133" width="0.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
-<text x="1192.63" y="143.5" style="fill:white" />
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="157.2" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="160.21" y="79.5" style="fill:black" />
 </g>
 <g>
-<title>__subdf3 (114 samples, 0.01%)</title><rect x="453.7" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="456.71" y="79.5" style="fill:white" />
+<title>__muldf3 (114 samples, 0.01%)</title><rect x="110.6" y="101" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="113.59" y="111.5" style="fill:black" />
 </g>
 <g>
-<title>__subdf3 (123 samples, 0.01%)</title><rect x="156.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="159.80" y="79.5" style="fill:white" />
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="167.1" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="170.08" y="79.5" style="fill:black" />
 </g>
 <g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="181.8" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="184.83" y="79.5" style="fill:white" />
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="127.1" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="130.12" y="95.5" style="fill:black" />
 </g>
 <g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="171.7" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="174.74" y="79.5" style="fill:white" />
+<title>iterative_FFT_radix2 (2,521 samples, 0.25%)</title><rect x="191.8" y="117" width="2.9" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="194.76" y="127.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="154.9" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="157.92" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="163.2" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="166.23" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="446.5" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="449.52" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (219 samples, 0.02%)</title><rect x="143.7" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="146.73" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="127.0" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="129.98" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="164.3" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="167.29" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="168.3" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="171.29" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (670 samples, 0.07%)</title><rect x="182.2" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="185.23" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="132.5" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="135.51" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="456.2" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="459.20" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="441.8" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="444.84" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>cos (5,281 samples, 0.53%)</title><rect x="164.0" y="101" width="6.3" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="167.04" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>get_bit_reversed_seq (632 samples, 0.06%)</title><rect x="459.5" y="117" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="462.53" y="127.5" style="fill:black" />
+</g>
+<g>
+<title>__kernel_sin (3,348 samples, 0.34%)</title><rect x="186.0" y="85" width="3.9" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="188.96" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="128.3" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="131.32" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__divdf3 (377 samples, 0.04%)</title><rect x="177.0" y="101" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="180.05" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="154.7" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="157.65" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>iterative_FFT_radix4 (1,609 samples, 0.16%)</title><rect x="460.8" y="117" width="1.9" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="463.76" y="127.5" style="fill:white" />
+</g>
+<g>
+<title>__sflush_r (82,180 samples, 8.24%)</title><rect x="332.5" y="85" width="97.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="335.48" y="95.5" style="fill:white">__sflush_r</text>
+</g>
+<g>
+<title>__sfputc_r (88 samples, 0.01%)</title><rect x="197.1" y="53" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="200.10" y="63.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (637 samples, 0.06%)</title><rect x="183.0" y="69" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="186.03" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="457.0" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="460.01" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (591 samples, 0.06%)</title><rect x="435.2" y="85" width="0.7" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="438.24" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="131.7" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="134.70" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__kernel_sin (2,618 samples, 0.26%)</title><rect x="444.6" y="101" width="3.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="447.62" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="133.7" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="136.73" y="79.5" style="fill:black" />
 </g>
 <g>
 <title>cos (4,051 samples, 0.41%)</title><rect x="152.7" y="101" width="4.8" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
 <text x="155.69" y="111.5" style="fill:white" />
 </g>
 <g>
-<title>__adddf3 (126 samples, 0.01%)</title><rect x="150.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="153.08" y="79.5" style="fill:black" />
+<title>_fwalk_sglue (202 samples, 0.02%)</title><rect x="1189.8" y="133" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="1192.76" y="143.5" style="fill:white" />
 </g>
 <g>
-<title>__muldf3 (220 samples, 0.02%)</title><rect x="127.1" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="130.12" y="95.5" style="fill:white" />
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="166.9" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="169.95" y="79.5" style="fill:black" />
 </g>
 <g>
-<title>__adddf3 (110 samples, 0.01%)</title><rect x="178.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="181.10" y="79.5" style="fill:black" />
+<title>__adddf3 (371 samples, 0.04%)</title><rect x="141.4" y="69" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="144.41" y="79.5" style="fill:black" />
 </g>
 <g>
-<title>__subdf3 (120 samples, 0.01%)</title><rect x="118.6" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
-<text x="121.63" y="95.5" style="fill:white" />
+<title>_write (82,103 samples, 8.23%)</title><rect x="12.8" y="69" width="97.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="15.76" y="79.5" style="fill:white">_write</text>
 </g>
 <g>
-<title>__muldf3 (225 samples, 0.02%)</title><rect x="451.8" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="454.83" y="79.5" style="fill:white" />
+<title>__divdf3 (377 samples, 0.04%)</title><rect x="120.6" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="123.59" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (166 samples, 0.02%)</title><rect x="145.9" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="148.92" y="79.5" style="fill:black" />
 </g>
 <g>
 <title>__kernel_cos (3,459 samples, 0.35%)</title><rect x="431.8" y="101" width="4.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
 <text x="434.85" y="111.5" style="fill:black" />
 </g>
 <g>
-<title>__muldf3 (215 samples, 0.02%)</title><rect x="185.2" y="69" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
-<text x="188.23" y="79.5" style="fill:white" />
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="151.5" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="154.53" y="111.5" style="fill:black" />
 </g>
 <g>
-<title>__divdf3 (377 samples, 0.04%)</title><rect x="177.0" y="101" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
-<text x="180.05" y="111.5" style="fill:black" />
+<title>compute_twiddle_factors_radix2 (67,928 samples, 6.81%)</title><rect x="109.9" y="117" width="80.3" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="112.87" y="127.5" style="fill:white">compute_t..</text>
+</g>
+<g>
+<title>__kernel_sin (3,459 samples, 0.35%)</title><rect x="142.2" y="85" width="4.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="145.17" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (665 samples, 0.07%)</title><rect x="168.7" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="171.69" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="442.2" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="445.24" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__divdf3 (377 samples, 0.04%)</title><rect x="163.5" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="166.49" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="171.7" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="174.74" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__ieee754_rem_pio2 (645 samples, 0.06%)</title><rect x="129.9" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="132.94" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (665 samples, 0.07%)</title><rect x="186.2" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="189.17" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="119.2" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="122.18" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="138.1" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="141.11" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="159.6" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="162.59" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="173.9" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="176.88" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (637 samples, 0.06%)</title><rect x="458.2" y="69" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="461.20" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="181.3" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="184.29" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="149.0" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="152.00" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (145 samples, 0.01%)</title><rect x="454.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="457.32" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (660 samples, 0.07%)</title><rect x="454.9" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="457.88" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (216 samples, 0.02%)</title><rect x="459.2" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="462.24" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (116 samples, 0.01%)</title><rect x="148.4" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="151.45" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__divdf3 (100 samples, 0.01%)</title><rect x="110.7" y="101" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="113.73" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (660 samples, 0.07%)</title><rect x="125.8" y="85" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="128.79" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (126 samples, 0.01%)</title><rect x="144.4" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="147.40" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="122.2" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="125.15" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="119.6" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="122.58" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="155.1" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="158.06" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__kernel_cos (3,625 samples, 0.36%)</title><rect x="135.8" y="85" width="4.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="138.77" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="178.3" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="181.34" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (219 samples, 0.02%)</title><rect x="149.4" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="152.41" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (142 samples, 0.01%)</title><rect x="185.1" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="188.06" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (134 samples, 0.01%)</title><rect x="147.3" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="150.33" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__sflush_r (82,213 samples, 8.24%)</title><rect x="12.6" y="85" width="97.3" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="15.63" y="95.5" style="fill:white">__sflush_r</text>
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="116.6" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="119.56" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="167.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="170.34" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__divdf3 (377 samples, 0.04%)</title><rect x="140.7" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="143.67" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (252 samples, 0.03%)</title><rect x="454.0" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="457.02" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="162.9" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="165.88" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (145 samples, 0.01%)</title><rect x="135.4" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="138.43" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (689 samples, 0.07%)</title><rect x="169.5" y="69" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="172.47" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="442.0" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="444.98" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="111.0" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="114.04" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="167.7" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="170.75" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (145 samples, 0.01%)</title><rect x="449.7" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="452.72" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>cos (4,264 samples, 0.43%)</title><rect x="141.2" y="101" width="5.1" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="144.22" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (440 samples, 0.04%)</title><rect x="188.3" y="69" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="191.31" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__kernel_cos (3,503 samples, 0.35%)</title><rect x="121.2" y="101" width="4.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="124.16" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (440 samples, 0.04%)</title><rect x="174.8" y="69" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="177.82" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (128 samples, 0.01%)</title><rect x="143.2" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="146.17" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (126 samples, 0.01%)</title><rect x="149.3" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="152.26" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="452.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="455.10" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="155.7" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="158.73" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (114 samples, 0.01%)</title><rect x="453.7" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="456.71" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (128 samples, 0.01%)</title><rect x="144.0" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="146.99" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="176.2" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="179.16" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="446.8" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="449.78" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__kernel_sin (2,618 samples, 0.26%)</title><rect x="125.6" y="101" width="3.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="128.62" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="451.7" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="454.69" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="184.8" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="187.81" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="136.8" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="139.76" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="131.8" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="134.84" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="446.9" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="449.92" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="113.5" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="116.46" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (219 samples, 0.02%)</title><rect x="160.9" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="163.94" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__sfputc_r (374 samples, 0.04%)</title><rect x="463.6" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="466.64" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="154.5" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="157.51" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="136.9" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="139.90" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="125.3" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="128.31" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="123.1" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="126.10" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="189.4" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="192.38" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="437.7" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="440.72" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (110 samples, 0.01%)</title><rect x="176.3" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="179.30" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (134 samples, 0.01%)</title><rect x="142.0" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="145.01" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>_printf_i (723 samples, 0.07%)</title><rect x="196.4" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="199.35" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__sfputs_r (643 samples, 0.06%)</title><rect x="463.3" y="85" width="0.8" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="466.33" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (110 samples, 0.01%)</title><rect x="184.6" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="187.57" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="436.9" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="439.91" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="114.3" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="117.26" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>sin (4,223 samples, 0.42%)</title><rect x="146.5" y="101" width="5.0" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="149.53" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="182.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="185.09" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>global_stdio_init.part.0 (239 samples, 0.02%)</title><rect x="11.6" y="101" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="14.60" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>rv_timer_reset.constprop.0.isra.0 (309 samples, 0.03%)</title><rect x="460.3" y="101" width="0.4" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="463.35" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="156.9" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="159.94" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>timer_cycles_init (224 samples, 0.02%)</title><rect x="191.4" y="117" width="0.3" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="194.45" y="127.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="157.5" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="160.48" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (654 samples, 0.07%)</title><rect x="121.4" y="85" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="124.38" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>std (214 samples, 0.02%)</title><rect x="11.6" y="85" width="0.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="14.63" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (660 samples, 0.07%)</title><rect x="136.0" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="138.98" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__divdf3 (377 samples, 0.04%)</title><rect x="152.1" y="101" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="155.14" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__sfputs_r (113,876 samples, 11.41%)</title><rect x="465.1" y="85" width="134.7" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="468.13" y="95.5" style="fill:white">__sfputs_r</text>
+</g>
+<g>
+<title>__ieee754_rem_pio2 (1,563 samples, 0.16%)</title><rect x="164.1" y="85" width="1.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="167.10" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__ieee754_rem_pio2 (1,555 samples, 0.16%)</title><rect x="184.1" y="85" width="1.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="187.12" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (371 samples, 0.04%)</title><rect x="146.7" y="69" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="149.72" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (112 samples, 0.01%)</title><rect x="128.6" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="131.59" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (440 samples, 0.04%)</title><rect x="155.9" y="69" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="158.87" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (142 samples, 0.01%)</title><rect x="165.0" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="168.04" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="433.4" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="436.38" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (665 samples, 0.07%)</title><rect x="172.7" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="175.69" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="174.3" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="177.28" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="437.1" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="440.05" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="187.5" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="190.50" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__divdf3 (376 samples, 0.04%)</title><rect x="440.0" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="442.98" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="138.0" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="140.97" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="146.3" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="149.26" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="120.3" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="123.34" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="174.0" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="177.02" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>_puts_r (83,604 samples, 8.38%)</title><rect x="11.0" y="117" width="98.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="13.99" y="127.5" style="fill:white">_puts_r</text>
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="173.6" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="176.62" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="168.1" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="171.15" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="187.4" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="190.36" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__ieee754_rem_pio2 (1,556 samples, 0.16%)</title><rect x="177.7" y="85" width="1.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="180.65" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="118.4" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="121.37" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (126 samples, 0.01%)</title><rect x="143.6" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="146.58" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="127.4" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="130.38" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (660 samples, 0.07%)</title><rect x="440.7" y="85" width="0.7" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="443.66" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="451.4" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="454.43" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="137.6" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="140.56" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__kernel_cos (3,625 samples, 0.36%)</title><rect x="179.5" y="85" width="4.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="182.49" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="442.4" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="445.38" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__kernel_cos (3,418 samples, 0.34%)</title><rect x="147.5" y="85" width="4.0" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="150.49" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="445.6" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="448.57" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="137.3" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="140.30" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (123 samples, 0.01%)</title><rect x="146.1" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="149.12" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="437.9" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="440.86" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (595 samples, 0.06%)</title><rect x="115.9" y="85" width="0.7" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="118.86" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__sfputc_r (167 samples, 0.02%)</title><rect x="197.4" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="200.38" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="178.8" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="181.76" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__swbuf_r (113,566 samples, 11.38%)</title><rect x="465.5" y="69" width="134.3" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="468.49" y="79.5" style="fill:white">__swbuf_r</text>
+</g>
+<g>
+<title>_vfprintf_r (115,893 samples, 11.62%)</title><rect x="462.7" y="101" width="137.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="465.74" y="111.5" style="fill:white">_vfprintf_r</text>
+</g>
+<g>
+<title>__adddf3 (112 samples, 0.01%)</title><rect x="438.9" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="441.94" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (216 samples, 0.02%)</title><rect x="439.1" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="442.07" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>_start (997,376 samples, 99.97%)</title><rect x="10.0" y="149" width="1179.6" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="13.00" y="159.5" style="fill:white">_start</text>
+</g>
+<g>
+<title>__ieee754_rem_pio2 (645 samples, 0.06%)</title><rect x="449.1" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="452.13" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__sfputs_r (176 samples, 0.02%)</title><rect x="197.0" y="69" width="0.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="200.00" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="174.7" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="177.68" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="128.2" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="131.18" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="456.5" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="459.46" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="188.2" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="191.17" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="161.2" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="164.20" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="187.1" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="190.10" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (219 samples, 0.02%)</title><rect x="148.6" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="151.59" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>_printf_common (135 samples, 0.01%)</title><rect x="196.8" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="199.84" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (145 samples, 0.01%)</title><rect x="158.4" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="161.43" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="127.9" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="130.92" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__kernel_sin (3,339 samples, 0.33%)</title><rect x="172.5" y="85" width="3.9" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="175.48" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="438.5" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="441.53" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="456.9" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="459.86" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="446.0" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="448.98" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="448.4" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="451.37" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (145 samples, 0.01%)</title><rect x="130.4" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="133.36" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="144.1" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="147.14" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__divdf3 (99 samples, 0.01%)</title><rect x="430.3" y="101" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="433.29" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (216 samples, 0.02%)</title><rect x="459.0" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="461.95" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (145 samples, 0.01%)</title><rect x="153.3" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="156.35" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (659 samples, 0.07%)</title><rect x="158.8" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="161.81" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="118.6" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="121.63" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (670 samples, 0.07%)</title><rect x="457.4" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="460.41" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__swsetup_r (412 samples, 0.04%)</title><rect x="12.0" y="101" width="0.5" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="15.01" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>__kernel_cos (3,625 samples, 0.36%)</title><rect x="454.7" y="85" width="4.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="457.66" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="114.0" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="117.00" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>_printf_common (135 samples, 0.01%)</title><rect x="464.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="467.76" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="176.8" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="179.79" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__ieee754_rem_pio2 (1,562 samples, 0.16%)</title><rect x="170.6" y="85" width="1.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="173.63" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="127.5" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="130.52" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="113.9" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="116.86" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__sfputs_r (176 samples, 0.02%)</title><rect x="464.9" y="69" width="0.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="467.92" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (647 samples, 0.06%)</title><rect x="124.5" y="85" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="127.54" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="126.7" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="129.71" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="127.8" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="130.78" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (545 samples, 0.05%)</title><rect x="123.9" y="85" width="0.6" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="126.90" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="441.6" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="444.58" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (440 samples, 0.04%)</title><rect x="133.1" y="69" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="136.05" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="123.8" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="126.76" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="433.2" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="436.24" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="156.5" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="159.54" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="456.1" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="459.06" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (145 samples, 0.01%)</title><rect x="454.5" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="457.49" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="145.2" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="148.24" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__swbuf_r (82,324 samples, 8.25%)</title><rect x="12.5" y="101" width="97.4" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="15.50" y="111.5" style="fill:white">__swbuf_r</text>
+</g>
+<g>
+<title>__call_exitprocs (106 samples, 0.01%)</title><rect x="1189.6" y="133" width="0.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="1192.63" y="143.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="140.4" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="143.42" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="457.3" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="460.27" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="155.5" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="158.46" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__ieee754_rem_pio2 (653 samples, 0.07%)</title><rect x="157.8" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="160.83" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__ieee754_rem_pio2 (654 samples, 0.07%)</title><rect x="152.7" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="155.75" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (113 samples, 0.01%)</title><rect x="171.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="174.08" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="123.5" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="126.50" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__divdf3 (377 samples, 0.04%)</title><rect x="111.9" y="101" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="114.90" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__ieee754_rem_pio2 (644 samples, 0.06%)</title><rect x="453.9" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="456.90" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="443.0" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="446.04" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>main (498,687 samples, 49.98%)</title><rect x="10.0" y="133" width="589.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="13.00" y="143.5" style="fill:black">main</text>
+</g>
+<g>
+<title>__muldf3 (665 samples, 0.07%)</title><rect x="450.1" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="453.10" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>std (108 samples, 0.01%)</title><rect x="11.9" y="101" width="0.1" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="14.89" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="175.9" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="178.89" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (647 samples, 0.06%)</title><rect x="443.8" y="85" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="446.83" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (216 samples, 0.02%)</title><rect x="447.7" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="450.71" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__kernel_sin (3,351 samples, 0.34%)</title><rect x="153.5" y="85" width="4.0" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="156.52" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="122.7" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="125.70" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="118.2" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="121.23" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="180.5" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="183.48" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (216 samples, 0.02%)</title><rect x="439.4" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="442.36" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (142 samples, 0.01%)</title><rect x="171.6" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="174.58" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>sin (4,946 samples, 0.50%)</title><rect x="170.6" y="101" width="5.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="173.58" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (128 samples, 0.01%)</title><rect x="145.5" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="148.50" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="115.1" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="118.07" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (670 samples, 0.07%)</title><rect x="161.3" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="164.34" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (116 samples, 0.01%)</title><rect x="134.0" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="136.99" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="134.4" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="137.39" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (660 samples, 0.07%)</title><rect x="432.1" y="85" width="0.7" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="435.06" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__divdf3 (377 samples, 0.04%)</title><rect x="129.3" y="101" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="132.34" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="455.7" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="458.66" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (128 samples, 0.01%)</title><rect x="133.6" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="136.57" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (403 samples, 0.04%)</title><rect x="185.5" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="188.48" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (126 samples, 0.01%)</title><rect x="150.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="153.08" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__kernel_cos (3,671 samples, 0.37%)</title><rect x="165.9" y="85" width="4.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="168.95" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__sfputc_r (167 samples, 0.02%)</title><rect x="465.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="468.30" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (142 samples, 0.01%)</title><rect x="178.6" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="181.59" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>sin (4,316 samples, 0.43%)</title><rect x="453.8" y="101" width="5.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="456.85" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="123.0" y="85" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="125.96" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="111.6" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="114.65" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (116 samples, 0.01%)</title><rect x="453.2" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="456.17" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="447.2" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="450.18" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (665 samples, 0.07%)</title><rect x="150.2" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="153.23" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__sflush_r (113,334 samples, 11.36%)</title><rect x="197.7" y="53" width="134.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="200.71" y="63.5" style="fill:white">__sflush_r</text>
+</g>
+<g>
+<title>__muldf3 (435 samples, 0.04%)</title><rect x="144.5" y="69" width="0.6" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="147.55" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="433.8" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="436.78" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (123 samples, 0.01%)</title><rect x="156.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="159.80" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="132.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="135.11" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="118.0" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="120.97" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (550 samples, 0.06%)</title><rect x="115.2" y="85" width="0.7" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="118.21" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (145 samples, 0.01%)</title><rect x="130.5" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="133.53" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="134.1" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="137.12" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>printf (115,921 samples, 11.62%)</title><rect x="462.7" y="117" width="137.1" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="465.71" y="127.5" style="fill:white">printf</text>
+</g>
+<g>
+<title>__divdf3 (376 samples, 0.04%)</title><rect x="448.6" y="101" width="0.5" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="451.63" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (660 samples, 0.07%)</title><rect x="166.2" y="69" width="0.7" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="169.16" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="437.3" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="440.32" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (110 samples, 0.01%)</title><rect x="178.1" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="181.10" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>_write (113,224 samples, 11.35%)</title><rect x="197.8" y="37" width="134.0" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="200.84" y="47.5" style="fill:white">_write</text>
+</g>
+<g>
+<title>__muldf3 (106 samples, 0.01%)</title><rect x="430.9" y="101" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="433.91" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="132.2" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="135.25" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (155 samples, 0.02%)</title><rect x="145.1" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="148.06" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>exit (314 samples, 0.03%)</title><rect x="1189.6" y="149" width="0.4" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="1192.63" y="159.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="441.4" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="444.44" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>_malloc_r (186 samples, 0.02%)</title><rect x="12.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="15.25" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="189.0" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="191.98" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="177.8" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="180.84" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__kernel_cos (3,509 samples, 0.35%)</title><rect x="440.4" y="101" width="4.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="443.44" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>sin (4,948 samples, 0.50%)</title><rect x="184.1" y="101" width="5.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="187.07" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="143.3" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="146.32" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="123.4" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="126.36" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="149.8" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="152.82" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="189.6" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="192.65" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__smakebuf_r (353 samples, 0.04%)</title><rect x="12.1" y="85" width="0.4" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="15.08" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="437.5" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="440.46" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__ieee754_rem_pio2 (644 samples, 0.06%)</title><rect x="135.0" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="138.01" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="114.7" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="117.67" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>_vfprintf_r (115,772 samples, 11.60%)</title><rect x="194.8" y="101" width="137.0" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="197.82" y="111.5" style="fill:white">_vfprintf_r</text>
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="445.7" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="448.71" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (260 samples, 0.03%)</title><rect x="152.9" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="155.87" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="132.6" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="135.65" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (545 samples, 0.05%)</title><rect x="443.2" y="85" width="0.6" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="446.18" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (128 samples, 0.01%)</title><rect x="188.8" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="191.83" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="159.7" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="162.73" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="128.7" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="131.72" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="438.1" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="441.13" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="438.7" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="441.67" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__floatsidf (151 samples, 0.02%)</title><rect x="430.0" y="101" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="432.98" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>_puts_r (82,795 samples, 8.30%)</title><rect x="331.8" y="117" width="97.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="334.76" y="127.5" style="fill:white">_puts_r</text>
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="180.6" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="183.62" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="171.3" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="174.32" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>cos (5,228 samples, 0.52%)</title><rect x="177.6" y="101" width="6.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="180.60" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="433.6" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="436.64" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="167.9" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="170.89" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>cos (4,037 samples, 0.40%)</title><rect x="449.1" y="101" width="4.7" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="452.07" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>memchr (158 samples, 0.02%)</title><rect x="464.1" y="85" width="0.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="467.09" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__kernel_cos (3,616 samples, 0.36%)</title><rect x="158.6" y="85" width="4.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="161.60" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="453.6" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="456.57" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (664 samples, 0.07%)</title><rect x="153.7" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="156.73" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="170.3" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="173.29" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="119.0" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="122.04" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__ieee754_rem_pio2 (758 samples, 0.08%)</title><rect x="146.6" y="85" width="0.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="149.59" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="442.8" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="445.78" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="164.8" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="167.79" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (637 samples, 0.06%)</title><rect x="139.3" y="69" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="142.30" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="155.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="158.32" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__ieee754_rem_pio2 (759 samples, 0.08%)</title><rect x="141.3" y="85" width="0.9" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="144.27" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__sfputc_r (374 samples, 0.04%)</title><rect x="195.7" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="198.72" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="173.5" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="176.47" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="431.1" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="434.12" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (113 samples, 0.01%)</title><rect x="164.5" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="167.55" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (128 samples, 0.01%)</title><rect x="452.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="455.76" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="160.1" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="163.13" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>sin (4,316 samples, 0.43%)</title><rect x="157.8" y="101" width="5.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="160.77" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__sfputs_r (643 samples, 0.06%)</title><rect x="195.4" y="85" width="0.8" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="198.41" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>_printf_i (723 samples, 0.07%)</title><rect x="464.3" y="85" width="0.8" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="467.27" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="181.8" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="184.83" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (252 samples, 0.03%)</title><rect x="449.2" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="452.25" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="446.4" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="449.38" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="451.0" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="454.03" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="433.0" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="435.98" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (145 samples, 0.01%)</title><rect x="135.6" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="138.60" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (260 samples, 0.03%)</title><rect x="157.9" y="69" width="0.4" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="160.95" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="180.9" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="183.88" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="456.6" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="459.60" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="170.8" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="173.82" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="137.2" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="140.16" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="181.4" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="184.43" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (659 samples, 0.07%)</title><rect x="147.7" y="69" width="0.7" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="150.67" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (114 samples, 0.01%)</title><rect x="157.3" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="160.35" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="134.7" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="137.66" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="151.9" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="154.89" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__sfputc_r (88 samples, 0.01%)</title><rect x="465.0" y="53" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="468.02" y="63.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (216 samples, 0.02%)</title><rect x="430.6" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="433.62" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="442.6" y="85" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="445.64" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="451.3" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="454.29" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="160.4" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="163.39" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="438.3" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="441.27" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="113.6" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="116.60" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="167.5" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="170.49" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="184.3" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="187.31" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (550 samples, 0.06%)</title><rect x="434.6" y="85" width="0.6" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="437.59" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="446.1" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="449.12" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__swbuf_r (113,445 samples, 11.37%)</title><rect x="197.6" y="69" width="134.2" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="200.58" y="79.5" style="fill:white">__swbuf_r</text>
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="165.2" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="168.21" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__sfputs_r (113,755 samples, 11.40%)</title><rect x="197.2" y="85" width="134.6" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="200.21" y="95.5" style="fill:white">__sfputs_r</text>
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="183.8" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="186.78" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>sbrk_aligned (111 samples, 0.01%)</title><rect x="12.3" y="53" width="0.2" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="15.34" y="63.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (660 samples, 0.07%)</title><rect x="117.0" y="85" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="120.04" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="450.9" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="453.88" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="455.8" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="458.80" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>compute_twiddle_factors_radix4 (25,242 samples, 2.53%)</title><rect x="429.7" y="117" width="29.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="432.68" y="127.5" style="fill:black">co..</text>
+</g>
+<g>
+<title>_write (82,070 samples, 8.23%)</title><rect x="332.6" y="69" width="97.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="335.61" y="79.5" style="fill:white">_write</text>
+</g>
+<g>
+<title>__subdf3 (139 samples, 0.01%)</title><rect x="147.2" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="150.16" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (116 samples, 0.01%)</title><rect x="189.2" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="192.24" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (654 samples, 0.07%)</title><rect x="112.7" y="85" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="115.69" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="114.4" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="117.40" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>cos (4,039 samples, 0.40%)</title><rect x="129.9" y="101" width="4.8" height="15.0" fill="rgb(109,26,54)" rx="2" ry="2" />
+<text x="132.89" y="111.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="126.6" y="85" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="129.57" y="95.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="187.9" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="190.91" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="175.5" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="178.49" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="185.2" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="188.23" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (665 samples, 0.07%)</title><rect x="436.1" y="85" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="439.13" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (252 samples, 0.03%)</title><rect x="130.1" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="133.06" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="452.9" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="455.91" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>get_bit_reversed_seq (1,048 samples, 0.11%)</title><rect x="190.2" y="117" width="1.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="193.21" y="127.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="189.9" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="192.92" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (146 samples, 0.01%)</title><rect x="153.2" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="156.17" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (112 samples, 0.01%)</title><rect x="119.8" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="122.85" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="118.8" y="85" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="121.77" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (128 samples, 0.01%)</title><rect x="149.7" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="152.67" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="181.0" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="184.03" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="187.0" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="189.96" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (114 samples, 0.01%)</title><rect x="134.5" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="137.53" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (403 samples, 0.04%)</title><rect x="179.0" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="182.02" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>_write (113,345 samples, 11.36%)</title><rect x="465.8" y="37" width="134.0" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="468.76" y="47.5" style="fill:white">_write</text>
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="129.1" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="132.08" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (114 samples, 0.01%)</title><rect x="430.2" y="101" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="433.16" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="114.8" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="117.81" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (105 samples, 0.01%)</title><rect x="111.4" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="114.44" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="132.9" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="135.91" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (125 samples, 0.01%)</title><rect x="156.4" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="159.39" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="176.4" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="179.43" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (114 samples, 0.01%)</title><rect x="189.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="192.79" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (407 samples, 0.04%)</title><rect x="172.0" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="175.00" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="138.4" y="69" width="0.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="141.37" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (225 samples, 0.02%)</title><rect x="137.7" y="69" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="140.70" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="140.1" y="101" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="143.06" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>printf (115,801 samples, 11.61%)</title><rect x="194.8" y="117" width="137.0" height="15.0" fill="rgb(57,57,58)" rx="2" ry="2" />
+<text x="197.79" y="127.5" style="fill:white">printf</text>
+</g>
+<g>
+<title>sin (4,316 samples, 0.43%)</title><rect x="135.0" y="101" width="5.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="137.95" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (630 samples, 0.06%)</title><rect x="162.1" y="69" width="0.8" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="165.13" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (664 samples, 0.07%)</title><rect x="142.4" y="69" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="145.38" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="160.0" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="162.99" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__adddf3 (118 samples, 0.01%)</title><rect x="168.5" y="69" width="0.2" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="171.55" y="79.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (215 samples, 0.02%)</title><rect x="439.7" y="101" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="442.72" y="111.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (665 samples, 0.07%)</title><rect x="444.8" y="85" width="0.8" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="447.78" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__muldf3 (220 samples, 0.02%)</title><rect x="122.3" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="125.29" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__subdf3 (436 samples, 0.04%)</title><rect x="151.0" y="69" width="0.5" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="154.01" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (120 samples, 0.01%)</title><rect x="187.8" y="69" width="0.1" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="190.76" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__subdf3 (139 samples, 0.01%)</title><rect x="141.8" y="69" width="0.2" height="15.0" fill="rgb(0,116,128)" rx="2" ry="2" />
+<text x="144.85" y="79.5" style="fill:white" />
+</g>
+<g>
+<title>__muldf3 (224 samples, 0.02%)</title><rect x="447.3" y="85" width="0.3" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="450.32" y="95.5" style="fill:black" />
+</g>
+<g>
+<title>__kernel_cos (3,457 samples, 0.35%)</title><rect x="112.5" y="101" width="4.1" height="15.0" fill="rgb(213,137,54)" rx="2" ry="2" />
+<text x="115.48" y="111.5" style="fill:black" />
 </g>
 </g>
 </svg>
